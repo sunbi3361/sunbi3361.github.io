@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Test
-date: 2026-03-17 21:00:00 +0900
-categories: [GPGPU, Memory Systems]
+date: 2026-03-16 21:00:00 +0900
+categories: [GPGPU, Memory-Systems]
 tags: [gddr7, jedec]
 ---
 
