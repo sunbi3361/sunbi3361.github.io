@@ -1,8 +1,9 @@
 ---
+layout: post
 title: Test
 date: 2026-03-17 21:00:00 +0900
-categories: [Memory Systems, GPGPU]
-tags: [gddr7, jedec, gpu-memory]
+categories: [GPGPU, Memory Systems]
+tags: [gddr7, jedec]
 ---
 
 ## Why I am reading this
